@@ -48,7 +48,7 @@
 
 
 ## Introduction
-[Provide a brief introduction to the project, including the motivation and goals. Explain the significance and context of the research.]
+Depreciated, never worked with the pump at MTU.
 
 ## Project Overview
 [Describe the project in more detail. This section can be split into subsections if necessary.]
